@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 ## WELCOME TO RELIQUIAE!
 <p align="center">
-<img height="40" src="https://i.postimg.cc/d1vbyXNC/ezgif-com-animated-gif-maker-14.gif" ></img> <img height="40" src="https://i.postimg.cc/d1vbyXNC/ezgif-com-animated-gif-maker-14.gif" ></img>
+<img height="40" src="https://i.postimg.cc/d1vbyXNC/ezgif-com-animated-gif-maker-14.gif" ></img>
 </p> 
   <img align="left" src="https://i.postimg.cc/YqmRrT4p/konosdeco.png"> 
 
