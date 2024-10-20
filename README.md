@@ -20,8 +20,8 @@
       <section2>
              <h2 align="right">
                 BYF + DNI </h2>
-                   <br>        
-        <p> We love meeting and talking to new people so feel free to chat with us through whispers! We promise we won't bite /Silly </p>
+                   <br>
+        <p><i> We love meeting and talking to new people so feel free to chat with us through whispers! We promise we won't bite /Silly </i></p>
        </section2>
    <br>
      <p align="right"> <a href=https://www.tumblr.com/konosdeco/751703889787650048/ddvau-hotguy-and-cuteguy-graphics-do-not-use?source=share>Credit</a> </p>
