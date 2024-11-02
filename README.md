@@ -22,6 +22,7 @@
                 BYF + DNI </h2>
                    <br>
         <p><i> We love meeting and talking to new people so feel free to chat with us through whispers! We promise we won't bite /Silly </i></p>
+        <p><b> DO NOT interact if you're below 16, fit in the usual DNI critera, support Drm team + LVJY </b></p>
        </section2>
    <br>
      <p align="right"> <a href=https://www.tumblr.com/konosdeco/751703889787650048/ddvau-hotguy-and-cuteguy-graphics-do-not-use?source=share>Credit</a> </p>
