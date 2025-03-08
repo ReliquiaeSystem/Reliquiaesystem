@@ -28,7 +28,6 @@
      <section3> 
        <h3 align="left"> </h3>
 Offical Hermit Polycule. /Silly <img src="https://i.postimg.cc/fL7sh7TW/poly-gay.png"> 
- <p align="center"> Hi yes we're annoying about the spot we usually hord but that is due recognosition! We are a system with a lot of different alters and usually sit at the spot below the lantern so our friends and mutuals are able to recognise us! So yes, we will ask you to move and if you don't we will continue covering you until you do. No hard feelings but yk, there is a lot of other space you can move to! ^_^ </p>
      </section3>
     
   <p align="right"> <a href=https://www.tumblr.com/konosdeco/751703889787650048/ddvau-hotguy-and-cuteguy-graphics-do-not-use?source=share>Credit</a> </p>
