@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
   <h1> WELCOME TO RELIQUIAE! </h1>
     <p align="center">
-      <img height="40" src="https://i.postimg.cc/d1vbyXNC/ezgif-com-animated-gif-maker-14.gif" >
+      <img height="90" src="https://64.media.tumblr.com/a2d8cb5378cf142f084860686722d2b8/27e1a915fca59390-c2/s1280x1920/91f6e97bff4e414dc481787cfa7f61e46e5ae86a.pnj" >
     </p> 
         <img align="left" height="250" src="https://64.media.tumblr.com/a1fabbad347909c8733e4173d95c2c3e/8c04b7e8f2ba7f13-b0/s1280x1920/85adcc26fa15bb89c4a37465760c10bff6d5c99a.pnj"> 
 
