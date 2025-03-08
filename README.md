@@ -3,7 +3,7 @@
     <p align="center">
       <img height="40" src="https://i.postimg.cc/d1vbyXNC/ezgif-com-animated-gif-maker-14.gif" >
     </p> 
-        <img align="left" height="250" src="https://i.postimg.cc/YqmRrT4p/konosdeco.png"> 
+        <img align="left" height="250" src="https://64.media.tumblr.com/a1fabbad347909c8733e4173d95c2c3e/8c04b7e8f2ba7f13-b0/s1280x1920/85adcc26fa15bb89c4a37465760c10bff6d5c99a.pnj"> 
 
   <br>  </br> 
  
@@ -30,7 +30,7 @@
 Offical Hermit Polycule. /Silly <img src="https://i.postimg.cc/fL7sh7TW/poly-gay.png"> 
      </section3>
     
-  <p align="right"> <a href=https://www.tumblr.com/konosdeco/751703889787650048/ddvau-hotguy-and-cuteguy-graphics-do-not-use?source=share>Credit</a> </p>
+  <p align="right"> <a href=https://www.tumblr.com/rookmeo/760427057249468416/ranpo-graphics-gift-for-scythidol-rb-credit>Credit</a> </p>
      
   </body>
 </html>
