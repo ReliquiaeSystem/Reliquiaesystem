@@ -25,11 +25,7 @@
         <p> <b> DO NOT interact if you're below 16, fit in the usual DNI critera, support Drm team + LVJY </b> </p>
        </section2>
    <br>
-     <section3> 
-       <h3 align="left"> </h3>
-Offical Hermit Polycule. /Silly <img src="https://i.postimg.cc/fL7sh7TW/poly-gay.png"> 
-     </section3>
-    
+
   <p align="right"> <a href=https://www.tumblr.com/rookmeo/760427057249468416/ranpo-graphics-gift-for-scythidol-rb-credit>Credit</a> </p>
      
   </body>
