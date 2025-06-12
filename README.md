@@ -1,19 +1,19 @@
 <!DOCTYPE HTML>
-  <h1> WELCOME TO RELIQUIAE! </h1>
+  <h1> WELCOME TO @SIFFRIN! </h1>
     <p align="center">
-      <img height="90" src="https://64.media.tumblr.com/a2d8cb5378cf142f084860686722d2b8/27e1a915fca59390-c2/s1280x1920/91f6e97bff4e414dc481787cfa7f61e46e5ae86a.pnj" >
+      <img height="90" src="https://64.media.tumblr.com/bb382a5587b4881cb092b7511f56c2f0/9294095bd274d868-e1/s2048x3072/e070fe5d6b75ab67aee8b360a22c537f84e6ba0c.pnj" >
     </p> 
-        <img align="left" height="250" src="https://64.media.tumblr.com/a1fabbad347909c8733e4173d95c2c3e/8c04b7e8f2ba7f13-b0/s1280x1920/85adcc26fa15bb89c4a37465760c10bff6d5c99a.pnj"> 
+        <img align="left" width="700 lvh" src="https://64.media.tumblr.com/3566d0404578058a82a3dc2fa71331e3/9885c6ce83f182dd-9d/s2048x3072/4b1e018296b9da116a77ee91cbcf999e0179b42b.gifv"> 
 
   <br>  </br> 
  
    <body>
       <section> 
             <br>
-              <p align="center"> <i><b> Reliquiae / Reliq / Toby </b> </i> 
-              <img src="https://i.postimg.cc/KjG953Tc/ezgif-com-animated-gif-maker-15.gif">
-               19  ☆ OSDD-1B system
-              <p align="center"><i> Introject + Fragment heavy </i></p>
+              <p align="center"> <i><b> Siffrin/Ran </b> </i> 
+               <img src="https://64.media.tumblr.com/aa4536901aa184b39d53a42f10968cc7/756bfdb7bd81d3f0-9a/s75x75_c1/7aea6bcc4976d7e84364567a2cfa07cb5fae2750.gifv">
+               19  ☆ Taken <3
+              <p align="center"><i> OSDD1b System in recovery </i></p>
             <br>
       </section>
     <br>
@@ -21,12 +21,12 @@
              <h2 align="right">
                 BYF + DNI </h2>
                    <br>
-        <p><i> We love meeting and talking to new people so feel free to chat with us through whispers! We promise we won't bite /Silly </i></p>
+        <p><i> Hi if you see me! I am rarley online nowadays as I'm mainly focusing on school and have a proper life outside of the screen. I do enjoy meeting and talking to people so feel free to whisper! :) </i></p>
         <p> <b> DO NOT interact if you're below 16, fit in the usual DNI critera, support Drm team + LVJY </b> </p>
        </section2>
    <br>
 
-  <p align="right"> <a href=https://www.tumblr.com/rookmeo/760427057249468416/ranpo-graphics-gift-for-scythidol-rb-credit>Credit</a> </p>
+  <p align="right"> <a href="https://www.tumblr.com/hitchikokku-archived/772362761329098752/siffrin-layouts-f2u-creds-to-remxedmoon?source=share">Credit</a> </p>
      
   </body>
 </html>
